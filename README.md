@@ -1,0 +1,1 @@
+This is a simple search using the iTunes API. Depending on the category you choose different info will be displayed. It is using React.js.
